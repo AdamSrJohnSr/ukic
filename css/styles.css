@@ -1,0 +1,142 @@
+body{
+  text-align: center;
+  margin: 0;
+}
+  .header{
+    background-color: #e4f9f5;
+    font-family: serif;
+    }
+  h1{font-size: 5.625rem;
+  margin:0;
+  color:#3282b8;
+  font-family: 'Dancing Script', cursive;
+}
+    span{
+      color: red;
+    }
+    h2{
+      font-size:2.5rem;
+      color:#3282b8;
+      font-weight: normal;
+      margin:0 auto;
+    }
+    .ukic{
+      width: 15%;
+      height: 15%;
+    }
+.middle{
+  margin:100px auto;
+}
+.hellound{
+  margin:auto;
+  width:30%;
+  color: #40514E;
+}
+.hi{
+  margin: 20px auto;
+}
+.a1{
+  text-decoration: none;
+}
+.v1{
+  margin: 100px auto;
+  border-style: none;
+  border-bottom:dotted #3282b8 10px;
+  width: 6%;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+  color:#3282b8;
+  font-weight: 20px;
+}
+.v2{
+  width: 40%;
+  margin: auto;
+}
+.image1{
+width:30%;
+height: 30%;
+float: left;
+margin-right: 30px;
+}
+p{
+    font-family: 'Merriweather', serif;
+    line-height: 2;}
+  h2{  font-family: 'Merriweather', serif;
+font-size: 2.5rem;
+color: #3282b8;
+font-weight: normal;
+margin: auto;}
+.image2{
+  width:30%;
+  height: 30%;
+  float:right;
+  margin-left: 30px;
+}
+.v3{
+  width: 40%;
+  margin: 100px auto;
+}
+.v4{
+  margin: 100px auto;
+  border-style: none;
+  border-bottom:dotted #3282b8 10px;
+  width: 6%;}
+
+  .skills {
+    width: 40%;
+    margin:auto;
+  }
+
+  .chessing {
+    width: 25%;
+    height: 25%;
+    float: left;
+  }
+  .bottom{
+margin: 100px auto;
+  }
+.p4{
+  width: 40%;
+  margin: 50px auto;
+}
+.myButton {
+	background-color:#7892c2;
+	border-radius:28px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.myButton:hover {
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottomlast{
+  background-color:#51c2d5;
+  width:100%;
+  height:100px;
+  word-spacing:140px;
+  padding: 20px;
+}
+.a1{
+  text-decoration: none;
+    color:#3282b8;
+        font-family: 'Montserrat', sans-serif;
+}
+.vre1{
+    font-family: 'Merriweather', serif;
+    word-spacing: normal;
+    color: #f8f1f1;
+}
+.a1:hover{
+  color: white;
+}
